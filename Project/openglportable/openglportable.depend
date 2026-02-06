@@ -163,3 +163,39 @@
 
 1767591775 c:\users\user\desktop\graphics\computer-graphics-repos\project\openglportable\include\triangles.h
 
+1767719232 source:f:\10th semester\computer graphics\computer-graphics-repos\project\openglportable\src\circles.cpp
+	"Circles.h"
+
+1767719232 f:\10th semester\computer graphics\computer-graphics-repos\project\openglportable\include\circles.h
+
+1767719232 source:f:\10th semester\computer graphics\computer-graphics-repos\project\openglportable\src\rectngulars.cpp
+	"Rectngulars.h"
+
+1767719232 f:\10th semester\computer graphics\computer-graphics-repos\project\openglportable\include\rectngulars.h
+
+1767719232 source:f:\10th semester\computer graphics\computer-graphics-repos\project\openglportable\src\triangles.cpp
+	"Triangles.h"
+
+1767719232 f:\10th semester\computer graphics\computer-graphics-repos\project\openglportable\include\triangles.h
+
+1770383985 source:f:\10th semester\computer graphics\computer-graphics-repos\project\openglportable\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1767719232 f:\10th semester\computer graphics\computer-graphics-repos\project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1767719232 f:\10th semester\computer graphics\computer-graphics-repos\project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
