@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1761037065 source:c:\src\src\openglportable\openglportable\main.cpp
+	<GL/glut.h>
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761036817 c:\src\src\openglportable\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1761531191 source:c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761232548 c:\courses\fall 25-26\computer graphics [m]\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1761531191 source:d:\education\7th semester  (fall 25-26)\computer graphics\openglportable-64bit\openglportable\main.cpp
+	<GL/glut.h>
+
+1761232548 d:\education\7th semester  (fall 25-26)\computer graphics\openglportable-64bit\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761232548 d:\education\7th semester  (fall 25-26)\computer graphics\openglportable-64bit\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1761531191 source:d:\education\7th semester  (fall 25-26)\computer graphics\ff\openglportable\main.cpp
+	<GL/glut.h>
+
+1761232548 d:\education\7th semester  (fall 25-26)\computer graphics\ff\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1761232548 d:\education\7th semester  (fall 25-26)\computer graphics\ff\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1767710266 source:d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\openglportable\main.cpp
+	<GL/glut.h>
+	<math.h>
+
+1767710266 d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1767710266 d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1767710266 source:d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\openglportable\src\circles.cpp
+	"Circles.h"
+
+1767710266 d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\openglportable\include\circles.h
+
+1767710266 source:d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\openglportable\src\rectngulars.cpp
+	"Rectngulars.h"
+
+1767710266 d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\openglportable\include\rectngulars.h
+
+1767710266 source:d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\openglportable\src\triangles.cpp
+	"Triangles.h"
+
+1767710266 d:\education\7th semester  (fall 25-26)\computer graphics\computer-graphics-repos\project\openglportable\include\triangles.h
+
+1767546700 source:e:\fall_2025_2026\graphics\computer-graphics-repos\project\openglportable\main.cpp
+	<GL/glut.h>
+	<math.h>
+
+1767546700 e:\fall_2025_2026\graphics\computer-graphics-repos\project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1767546700 e:\fall_2025_2026\graphics\computer-graphics-repos\project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1767546700 source:e:\fall_2025_2026\graphics\computer-graphics-repos\project\openglportable\src\circles.cpp
+	"Circles.h"
+
+1767546700 e:\fall_2025_2026\graphics\computer-graphics-repos\project\openglportable\include\circles.h
+
+1767546700 source:e:\fall_2025_2026\graphics\computer-graphics-repos\project\openglportable\src\rectngulars.cpp
+	"Rectngulars.h"
+
+1767546700 e:\fall_2025_2026\graphics\computer-graphics-repos\project\openglportable\include\rectngulars.h
+
+1767546700 source:e:\fall_2025_2026\graphics\computer-graphics-repos\project\openglportable\src\triangles.cpp
+	"Triangles.h"
+
+1767546700 e:\fall_2025_2026\graphics\computer-graphics-repos\project\openglportable\include\triangles.h
+
+1767590645 source:c:\users\hp\desktop\graphics\computer-graphics-repos\project\openglportable\src\circles.cpp
+	"Circles.h"
+
+1767590645 c:\users\hp\desktop\graphics\computer-graphics-repos\project\openglportable\include\circles.h
+
+1767590645 source:c:\users\hp\desktop\graphics\computer-graphics-repos\project\openglportable\src\rectngulars.cpp
+	"Rectngulars.h"
+
+1767590645 c:\users\hp\desktop\graphics\computer-graphics-repos\project\openglportable\include\rectngulars.h
+
+1767590645 source:c:\users\hp\desktop\graphics\computer-graphics-repos\project\openglportable\src\triangles.cpp
+	"Triangles.h"
+
+1767590645 c:\users\hp\desktop\graphics\computer-graphics-repos\project\openglportable\include\triangles.h
+
+1767591775 source:c:\users\user\desktop\graphics\computer-graphics-repos\project\openglportable\src\circles.cpp
+	"Circles.h"
+
+1767591775 c:\users\user\desktop\graphics\computer-graphics-repos\project\openglportable\include\circles.h
+
+1767591775 source:c:\users\user\desktop\graphics\computer-graphics-repos\project\openglportable\src\rectngulars.cpp
+	"Rectngulars.h"
+
+1767591775 c:\users\user\desktop\graphics\computer-graphics-repos\project\openglportable\include\rectngulars.h
+
+1767591775 source:c:\users\user\desktop\graphics\computer-graphics-repos\project\openglportable\src\triangles.cpp
+	"Triangles.h"
+
+1767591775 c:\users\user\desktop\graphics\computer-graphics-repos\project\openglportable\include\triangles.h
+
