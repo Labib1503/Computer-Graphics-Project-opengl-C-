@@ -33,24 +33,3 @@
 	<GL/glu.h>
 	<stdlib.h>
 
-1768451430 source:f:\10th semester\computer graphics\openglportable-64bit\openglportable-64bit\openglportable\main.cpp
-	<GL/glut.h>
-	<math.h>
-	<iostream>
-	<cstdlib>
-	<ctime>
-
-1763658654 f:\10th semester\computer graphics\openglportable-64bit\openglportable-64bit\freeglut\include\gl\glut.h
-	"freeglut_std.h"
-
-1763658654 f:\10th semester\computer graphics\openglportable-64bit\openglportable-64bit\freeglut\include\gl\freeglut_std.h
-	<windows.h>
-	<EGL/egl.h>
-	<GLES/gl.h>
-	<GLES2/gl2.h>
-	<OpenGL/gl.h>
-	<OpenGL/glu.h>
-	<GL/gl.h>
-	<GL/glu.h>
-	<stdlib.h>
-
